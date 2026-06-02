@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nice_nano/nrf52840
+  - board: nice_nano/nrf52840/zmk
     shield: atreyu_rev2
